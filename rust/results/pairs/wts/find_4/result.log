@@ -3,38 +3,38 @@
 (-2, 2, 2, 2)
 generated 3 different rowsums
 results/pairs/wts/find_4/rowsum_0_0_0_4
-The function took: 0.06947779 seconds to generate sequences with rowsums: 4, 0, 0, 0
-The function took: 0.025663063 seconds to go through the two sets of pairs
+The function took: 0.10295499 seconds to generate sequences with rowsums: 4, 0, 0, 0
+The function took: 0.041000787 seconds to go through the two sets of pairs
 
 results/pairs/wts/find_4/rowsum_2_2_2_2
-The function took: 0.05215063 seconds to generate sequences with rowsums: 2, 2, 2, 2
-The function took: 0.03205906 seconds to go through the two sets of pairs
+The function took: 0.11902455 seconds to generate sequences with rowsums: 2, 2, 2, 2
+The function took: 0.17198336 seconds to go through the two sets of pairs
 
 results/pairs/wts/find_4/rowsum_-2_2_2_2
-The function took: 0.0783127 seconds to generate sequences with rowsums: 2, 2, 2, -2
-The function took: 0.050552737 seconds to go through the two sets of pairs
+The function took: 0.070394 seconds to generate sequences with rowsums: 2, 2, 2, -2
+The function took: 0.040973436 seconds to go through the two sets of pairs
 
 Creating the sequences took 1 seconds. 
  
 
-results/pairs/wts/find_4/rowsum_-2_2_2_2/pair_WX.pair
-results/pairs/wts/find_4/rowsum_-2_2_2_2/pair_YZ.pair
-results/pairs/wts/find_4/rowsum_0_0_0_4/pair_WY.pair
-results/pairs/wts/find_4/rowsum_0_0_0_4/pair_ZX.pair
-results/pairs/wts/find_4/rowsum_2_2_2_2/pair_XY.pair
-results/pairs/wts/find_4/rowsum_2_2_2_2/pair_ZW.pair
+results/pairs/wts/find_4/rowsum_-2_2_2_2/pair_YW.pair
+results/pairs/wts/find_4/rowsum_-2_2_2_2/pair_ZX.pair
+results/pairs/wts/find_4/rowsum_0_0_0_4/pair_WZ.pair
+results/pairs/wts/find_4/rowsum_0_0_0_4/pair_YX.pair
+results/pairs/wts/find_4/rowsum_2_2_2_2/pair_XZ.pair
+results/pairs/wts/find_4/rowsum_2_2_2_2/pair_YW.pair
 Sorting the files took 0 seconds. 
  
 
 ./results/pairs/wts/find_4
-Folder rowsum_2_2_2_2 : sequences have order (Z, W, X, Y)
-Folder rowsum_0_0_0_4 : sequences have order (Z, X, W, Y)
-Folder rowsum_-2_2_2_2 : sequences have order (Y, Z, W, X)
+Folder rowsum_-2_2_2_2 : sequences have order (Y, W, Z, X)
+Folder rowsum_0_0_0_4 : sequences have order (W, Z, Y, X)
+Folder rowsum_2_2_2_2 : sequences have order (Y, W, X, Z)
 
 count before equivalences 115
 The function found a total of 896 sequences without any equivalences
 count after equivalences 7
-Matching the sequences took 1 seconds. 
+Matching the sequences took 0 seconds. 
  
 
 Total execution time was 2 seconds.

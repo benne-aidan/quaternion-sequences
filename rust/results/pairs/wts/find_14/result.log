@@ -2,31 +2,31 @@
 (0, 2, 6, 4)
 generated 2 different rowsums
 results/pairs/wts/find_14/rowsum_0_2_4_6
-The function took: 0.0973584 seconds to generate sequences with rowsums: 6, 4, 2, 0
-The function took: 95.06335 seconds to go through the two sets of pairs
+The function took: 0.016450888 seconds to generate sequences with rowsums: 6, 4, 2, 0
+The function took: 66.5261 seconds to go through the two sets of pairs
 
 results/pairs/wts/find_14/rowsum_0_2_6_4
-The function took: 0.10956665 seconds to generate sequences with rowsums: 6, 4, 2, 0
-The function took: 94.702705 seconds to go through the two sets of pairs
+The function took: 0.019068561 seconds to generate sequences with rowsums: 6, 4, 2, 0
+The function took: 67.69243 seconds to go through the two sets of pairs
 
-Creating the sequences took 190 seconds. 
+Creating the sequences took 134 seconds. 
  
 
-results/pairs/wts/find_14/rowsum_0_2_4_6/pair_WZ.pair
-results/pairs/wts/find_14/rowsum_0_2_4_6/pair_YX.pair
-results/pairs/wts/find_14/rowsum_0_2_6_4/pair_YX.pair
-results/pairs/wts/find_14/rowsum_0_2_6_4/pair_ZW.pair
-Sorting the files took 9 seconds. 
+results/pairs/wts/find_14/rowsum_0_2_4_6/pair_WY.pair
+results/pairs/wts/find_14/rowsum_0_2_4_6/pair_ZX.pair
+results/pairs/wts/find_14/rowsum_0_2_6_4/pair_WX.pair
+results/pairs/wts/find_14/rowsum_0_2_6_4/pair_ZY.pair
+Sorting the files took 6 seconds. 
  
 
 ./results/pairs/wts/find_14
-Folder rowsum_0_2_4_6 : sequences have order (W, Z, Y, X)
-Folder rowsum_0_2_6_4 : sequences have order (Z, W, Y, X)
+Folder rowsum_0_2_6_4 : sequences have order (Z, Y, W, X)
+Folder rowsum_0_2_4_6 : sequences have order (Z, X, W, Y)
 
-count before equivalences 6716
+count before equivalences 6646
 The function found a total of 612864 sequences without any equivalences
 count after equivalences 96
-Matching the sequences took 68 seconds. 
+Matching the sequences took 46 seconds. 
  
 
-Total execution time was 267 seconds.
+Total execution time was 186 seconds.

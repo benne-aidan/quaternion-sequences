@@ -2,26 +2,26 @@
 (-1, 1, 1, 1)
 generated 2 different rowsums
 results/pairs/wts/find_1/rowsum_1_1_1_1
-The function took: 0.10874054 seconds to generate sequences with rowsums: 1, 1, 1, 1
-The function took: 0.037901554 seconds to go through the two sets of pairs
+The function took: 0.12391834 seconds to generate sequences with rowsums: 1, 1, 1, 1
+The function took: 0.03197593 seconds to go through the two sets of pairs
 
 results/pairs/wts/find_1/rowsum_-1_1_1_1
-The function took: 0.09323866 seconds to generate sequences with rowsums: 1, 1, 1, -1
-The function took: 0.043331034 seconds to go through the two sets of pairs
+The function took: 0.083559744 seconds to generate sequences with rowsums: 1, 1, 1, -1
+The function took: 0.043917164 seconds to go through the two sets of pairs
 
-Creating the sequences took 1 seconds. 
+Creating the sequences took 2 seconds. 
  
 
-results/pairs/wts/find_1/rowsum_-1_1_1_1/pair_WX.pair
-results/pairs/wts/find_1/rowsum_-1_1_1_1/pair_YZ.pair
-results/pairs/wts/find_1/rowsum_1_1_1_1/pair_XY.pair
-results/pairs/wts/find_1/rowsum_1_1_1_1/pair_ZW.pair
+results/pairs/wts/find_1/rowsum_-1_1_1_1/pair_YW.pair
+results/pairs/wts/find_1/rowsum_-1_1_1_1/pair_ZX.pair
+results/pairs/wts/find_1/rowsum_1_1_1_1/pair_XZ.pair
+results/pairs/wts/find_1/rowsum_1_1_1_1/pair_YW.pair
 Sorting the files took 0 seconds. 
  
 
 ./results/pairs/wts/find_1
-Folder rowsum_1_1_1_1 : sequences have order (Z, W, X, Y)
-Folder rowsum_-1_1_1_1 : sequences have order (W, X, Y, Z)
+Folder rowsum_1_1_1_1 : sequences have order (Y, W, X, Z)
+Folder rowsum_-1_1_1_1 : sequences have order (Z, X, Y, W)
 
 count before equivalences 2
 The function found a total of 16 sequences without any equivalences
@@ -29,4 +29,4 @@ count after equivalences 2
 Matching the sequences took 0 seconds. 
  
 
-Total execution time was 1 seconds.
+Total execution time was 2 seconds.
