@@ -1,5 +1,5 @@
 #! /bin/bash
-#SBATCH --time=7-00:00:00
+#SBATCH --time=01:00:00
 #SBATCH --mem=8000M
 #SBATCH --account=def-cbright
 
